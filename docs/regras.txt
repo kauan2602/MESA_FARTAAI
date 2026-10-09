@@ -1,0 +1,12 @@
+PROJETO MESAFARTAI — REGRAS DA ETAPA 1
+
+1. Criar um repositório público no GitHub chamado PROJETO-MESAFARTAI.
+2. Adicionar os integrantes do grupo e o professor como colaboradores.
+3. Criar o README.md com a descrição do projeto, alinhamento com a ODS 2 e identificação dos integrantes.
+4. Criar a pasta docs com os arquivos regras.txt e escopo_projeto.md.
+5. Criar um logotipo utilizando Inteligência Artificial e salvar em assets/logo_mesafartai.png.
+6. Registrar o prompt utilizado para gerar o logotipo no arquivo escopo_projeto.md.
+7. Criar o banco de dados SQLite3 por meio do arquivo src/database.py.
+8. Criar as tabelas de usuários, doações e matches logísticos.
+9. Inserir dados iniciais de teste no banco de dados.
+10. Executar o script sem erros e confirmar a criação do arquivo mesafartai.db.
