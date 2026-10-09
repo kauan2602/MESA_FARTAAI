@@ -34,4 +34,5 @@ Python, SQLite3, Regex, Scikit-learn, spaCy e Streamlit.
 
 ## 6. Prompt Utilizado para Criar o Logotipo
 
-[Coloque aqui o prompt exato utilizado no gerador de imagens por IA.]
+Crie um logotipo profissional para o MESAFARTAI, um projeto de tecnologia social que conecta doadores de alimentos a ONGs. Combine elementos de uma cesta de alimentos, mãos acolhedoras e circuitos digitais que representem inteligência artificial. Design moderno, limpo, amigável, com cores verde, laranja e branco, fundo transparente, formato quadrado, sem mockup e com o nome MESAFARTAI escrito corretamente.
+
