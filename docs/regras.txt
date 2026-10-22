@@ -1,0 +1,21 @@
+REGRAS DO PROJETO MESAFARTAI — FASE 1
+
+1. Criar um repositório público no GitHub chamado PROJETO-MESAFARTAI.
+
+2. Adicionar os integrantes do grupo e o professor como colaboradores.
+
+3. Criar o arquivo README.md com a descrição do projeto, alinhamento com a ODS 2 da ONU, nomes completos e RAs dos integrantes.
+
+4. Criar a pasta assets com os arquivos arquitetura_mesafartai.png e diag_fluxo_mesafartai.png.
+
+5. Criar a pasta docs contendo os arquivos regras.txt e escopo_projeto.md.
+
+6. Documentar o problema de negócio, o público-alvo, as intenções do sistema e os dados que serão coletados pelo chat.
+
+7. Criar a estrutura de código-fonte do projeto em Python.
+
+8. Criar o banco de dados SQLite3 com as tabelas de usuários, doações e matches logísticos.
+
+9. Inserir dados de teste no banco de dados para validar seu funcionamento.
+
+10. Organizar os arquivos e manter o histórico de commits sincronizado com o GitHub.
